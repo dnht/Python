@@ -13,7 +13,7 @@ stack=[]
 total_steps=0
 
 #------------------------------------------------------------------------------------------------------------------
-#This function will receive input data :R,C, matrix
+#This function will receive input data :R,C, matrix (Trang)
 def input() :
     pass
 
